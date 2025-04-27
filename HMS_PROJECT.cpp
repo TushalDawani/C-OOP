@@ -4,10 +4,7 @@
 		Title / Project							: Hotel Management System
 		Language							: C++
 		Author								: Tushal Dawani 
-		CMS ID 								: 023-24-0487   
-		Project Submitted to Respected Sir 				: Noor Nabi 
-		Date Created 							: December 2024
-		Last Modified 							: December 15, 2024
+		
 */
 
 
